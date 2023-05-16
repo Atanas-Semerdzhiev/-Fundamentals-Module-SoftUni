@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Pascal Triangle", "02. Pascal Triangle\02. Pascal Triangle.csproj", "{35A350C2-68B4-4906-9859-ED7582CF9E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Fold and Sum", "04. Fold and Sum\04. Fold and Sum.csproj", "{CEB45FD3-92E9-47AF-942D-BE87C60C09FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Longest Increasing Subsequence", "05. Longest Increasing Subsequence\05. Longest Increasing Subsequence.csproj", "{609C9EA3-945B-42FA-B17A-00FD03FB0E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A350C2-68B4-4906-9859-ED7582CF9E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A350C2-68B4-4906-9859-ED7582CF9E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A350C2-68B4-4906-9859-ED7582CF9E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A350C2-68B4-4906-9859-ED7582CF9E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB45FD3-92E9-47AF-942D-BE87C60C09FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB45FD3-92E9-47AF-942D-BE87C60C09FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB45FD3-92E9-47AF-942D-BE87C60C09FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB45FD3-92E9-47AF-942D-BE87C60C09FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609C9EA3-945B-42FA-B17A-00FD03FB0E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609C9EA3-945B-42FA-B17A-00FD03FB0E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609C9EA3-945B-42FA-B17A-00FD03FB0E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609C9EA3-945B-42FA-B17A-00FD03FB0E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95093B74-1227-4719-A028-1B18FE214240}
+	EndGlobalSection
+EndGlobal
